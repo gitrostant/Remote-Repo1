@@ -14,4 +14,5 @@
 	git diff can be used to display the changes made between the Working and the
         staging Area and difference between the Staging Area and a revision within your        repo.
  
-	git reset mv file from Local Repo back to the Working directory
+	git reset mv file from Local Repo back to the Working directory 
+	git add
