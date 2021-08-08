@@ -1,0 +1,17 @@
+	******file1******
+
+1-	Git Command Line
+	git add to move file from the Working directory into the Staging Area
+
+	git status  will display the whole current status of your working
+        tree (files that are staged, modified, deleted, untracked etc.) 
+
+
+	git log is the record of the commit..List of all the commit made to a Repo
+ 
+	git commit to move file from the Staging Area to Local Repo
+
+	git diff can be used to display the changes made between the Working and the
+        staging Area and difference between the Staging Area and a revision within your        repo.
+ 
+	git reset mv file from Local Repo back to the Working directory

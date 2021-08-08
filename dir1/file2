@@ -1,0 +1,6 @@
+	*******file2******
+
+1-	Other command line
+	git stash to save all the project you are working on for later used
+	git push to push file into Remote Repo
+	git init to initialize the working directory
